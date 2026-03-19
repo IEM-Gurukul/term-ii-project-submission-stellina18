@@ -29,7 +29,7 @@ Students and professionals often struggle to manage multiple deadlines with vary
 ## Project Structure
 
 ```
-SmartTaskScheduler/
+term-ii-project-submission-stellina18/
 ├── src/com/taskscheduler/
 │   ├── Main.java                          # Entry point
 │   ├── model/
@@ -64,6 +64,7 @@ SmartTaskScheduler/
 │   └── Presentation.pptx
 ├── data/
 │   └── tasks.json                         # Auto-generated on first run
+├── .gitignore
 └── README.md
 ```
 
